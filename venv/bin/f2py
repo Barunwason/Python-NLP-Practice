@@ -1,4 +1,4 @@
-#!/Users/barunwason/python/Python-NLP-Practice/venv/bin/python3.11
+#!/Users/barunwason/python/Python-NLP-Practice/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
