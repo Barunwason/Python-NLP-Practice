@@ -1,1 +1,7 @@
+# Ignore large data and virtual environment
+venv/
 *.csv
+*.dylib
+__pycache__/
+*.pkl
+*.h5
